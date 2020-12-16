@@ -19,4 +19,3 @@ Template :
 4) Item page - Upon choosing an item, there would be more information regarding that product.
 
 Purchasing products may be implemented later.
-
