@@ -25,4 +25,3 @@ Use XAMPP to get this running.
 Import the sql file to implement the db side of the project.
 Make sure you change the config.php to suit your system's db settings, such as username and pwd.
 
-![GitHub Logo](/images_report/1.png)
