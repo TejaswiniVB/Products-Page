@@ -26,3 +26,9 @@ Import the sql file to implement the db side of the project.
 Make sure you change the config.php to suit your system's db settings, such as username and pwd.
 
 ![ImgName](https://github.com/TejaswiniVB/Products-Page/blob/main/Fashion/Images_report/1.jpg)
+
+Bibliography
+------------
+1. Unsplash - For the images
+2. BootStrap elements
+3. jQuery Tutorials
