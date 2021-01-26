@@ -25,4 +25,4 @@ Use XAMPP to get this running.
 Import the sql file to implement the db side of the project.
 Make sure you change the config.php to suit your system's db settings, such as username and pwd.
 
-![picture](TejaswiniVB/Products-Page/Fashion/images_report/1.png)
+![ImgName](https://github.com/TejaswiniVB/Products-Page/blob/main/Fashion/Images_report/1.jpg)
